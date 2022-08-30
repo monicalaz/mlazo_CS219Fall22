@@ -12,12 +12,12 @@ public class HelloWorld {
         System.out.println("Hello World");
 
         int x = 5;
-        boolean z =;
+        boolean z = true;
         double pi = 3.14159;
         String name = "CS 219 ";
 
         double avagadros = 6.022140857e23; // Scientific notation
-        double electron_mass = 9.10938357015e-31
+        double electron_mass = 9.10938357015e-31;
 
     }
 }
