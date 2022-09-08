@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Monica Lazaro
 9/ 6/ 2022
 HW2*/
@@ -31,4 +32,9 @@ public class DayOfWeek {
 
         System.out.println(dayoftheweek (month, day, year));
     }
+=======
+package HW2;
+
+public class DayOfWeek {
+>>>>>>> origin/master
 }
