@@ -1,13 +1,15 @@
-<<<<<<< HEAD
 /*Monica Lazaro
-9/ 6/ 2022
+9 / 6/ 2022
 HW2*/
+
+
 
 package HW2;
 
 import java.util.Scanner;
 
 public class DayOfWeek {
+
     public static int dayoftheweek( int month, int day, int year){
         int y0 = year - (14- month)/12;
         int x = y0 +y0 / 4 -y0/ 100 +y0/ 400;
@@ -32,9 +34,4 @@ public class DayOfWeek {
 
         System.out.println(dayoftheweek (month, day, year));
     }
-=======
-package HW2;
-
-public class DayOfWeek {
->>>>>>> origin/master
 }
